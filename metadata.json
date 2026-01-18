@@ -1,0 +1,8 @@
+{
+  "name": "The Great Astro 16 Direction Compass",
+  "description": "A professional-grade 16-direction Vastu Shastra compass and interactive architectural guide by The Great Astro. Features device orientation support, elemental color-coding, and AI-powered Vastu remedies.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
